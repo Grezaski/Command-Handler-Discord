@@ -1,0 +1,31 @@
+{
+    "name": "command-handler-discordjs-v14",
+    "version": "1.0.5",
+    "description": "An Advanced Discord Bot Slash Command Only Handler Made In DiscordJS V14 According To DiscordJS Guide",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Grezaski/Command-Handler-Discord.git"
+    },
+    "keywords": [
+        "Command",
+        "Handler",
+        "DiscordJS",
+        "Discord",
+        "Bot"
+    ],
+    "author": "Grezaski",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/Grezaski/Command-Handler-Discord/issues"
+    },
+    "homepage": "https://github.com/Grezaski/Command-Handler-Discord#readme",
+    "dependencies": {
+        "discord.js": "^14.3.0",
+        "fs": "^0.0.1-security",
+        "mongoose": "^6.5.4"
+    }
+}
